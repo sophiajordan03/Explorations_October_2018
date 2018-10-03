@@ -1,0 +1,21 @@
+body {
+    background:#FFCCB4;
+}
+p {
+font-family: cursive;
+}
+li{
+    color:grey;
+}
+h2
+{
+    font-family: fantasy;
+    font-size: medium;
+    color: black;
+}
+h3
+{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    color:black;
+}
